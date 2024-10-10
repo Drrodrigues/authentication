@@ -1,4 +1,4 @@
-package control;
+package com.simple.authentication.control;
 
 import com.simple.authentication.entity.User;
 
